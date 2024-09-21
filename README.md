@@ -1,1 +1,1 @@
-# Anima-o-Computadorizada
+# AnimacaoComputadorizada
